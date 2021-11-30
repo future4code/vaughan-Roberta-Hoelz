@@ -1,3 +1,4 @@
-# Primeira Semana Labenu
+# Primeira Semana Labenu 
 
-Nesta minha primeira semana na **Labenu**, estive em contato com novos conhecimentos e interagi com pessoas das mais variadas culturas.
+Nesta primeira semana na **Labenu**, tive contato com conhecimentos variados e pessoas das mais diversas culturas.
+>>>>>> master
