@@ -14,3 +14,7 @@ typeof idade
 console.log("Hey","Me chamo",nomeCompleto,"minha idade é",idade,"anos")
 */
 
+const valor1 = 3
+const valor2 = 4
+resultado = valor1 + valor2
+console.log(resultado)
