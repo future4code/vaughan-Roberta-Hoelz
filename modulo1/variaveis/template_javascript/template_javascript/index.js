@@ -1,12 +1,15 @@
+
 /*EXERCÍCIOS DE INTERPRETAÇÃO DE CÓDIGO
  Resposta 1: 10 10 5
  Resposta 2: Para que desse certo este código, deveria ser declarada a variavel C. Como ela não foi declarada, irá retornar com erro.
  Resposta 3: Este código irá calcular o salário do usuário por hora. Sendo a variavel p referente às horas de trabalho e a variável t referente ao salário por dia.
 
- EXERCÍCIOS DE ESCRITA DE CÓDIGO
- QUESTÃO 1
- LETRA A)*/
-// let nomeCompleto
+ EXERCÍCIOS DE ESCRITA DE CÓDIGO*/
+
+//EXERCÍCIO 1
+// LETRA A)
+// const nomeCompleto = prompt("Digite aqui seu nome completo")
+// let idade = prompt("Digite aqui sua idade")
 
 // LETRA B)
 // let idadeUsuario
@@ -14,6 +17,9 @@
 // LETRA C)
 // console.log(typeof nomeCompleto)
 // console.log(typeof idadeUsuario)
+
+
+
 
 // LETRA D)
 // Ambos os typeof imprimiram Undefined, pois essas variáveis não tiveram valores atribuídos.
